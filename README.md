@@ -17,3 +17,5 @@ i think it should work now
 omg not working my ai is hallucinating lol
 
 okay now I think it should work hopefully.
+
+okay now testing pr trigger on major release
