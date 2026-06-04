@@ -1,3 +1,15 @@
+# [9.0.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v8.0.0...v9.0.0) (2026-06-04)
+
+
+### Bug Fixes
+
+* PR TEST ([81977ea](https://github.com/Chanveasna-ENG/semantic-versioning-testing/commit/81977eaf0edb0edb5ba1596e0829759bde079372))
+
+
+### BREAKING CHANGES
+
+* major release
+
 # [8.0.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v7.101.0...v8.0.0) (2026-06-04)
 
 
