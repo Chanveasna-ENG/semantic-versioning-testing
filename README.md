@@ -19,3 +19,5 @@ omg not working my ai is hallucinating lol
 okay now I think it should work hopefully.
 
 okay now testing pr trigger on major release
+
+nice it is working now let try minor push but make major pr
