@@ -1,3 +1,10 @@
+# [10.1.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v10.0.0...v10.1.0) (2026-06-04)
+
+
+### Features
+
+* change package.json ([5f30664](https://github.com/Chanveasna-ENG/semantic-versioning-testing/commit/5f3066489e629b02d74221e14a3351414c979842))
+
 # [10.0.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v9.1.0...v10.0.0) (2026-06-04)
 
 
