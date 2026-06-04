@@ -1,3 +1,10 @@
+# [9.1.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v9.0.0...v9.1.0) (2026-06-04)
+
+
+### Bug Fixes
+
+* minor push major pr ([9171547](https://github.com/Chanveasna-ENG/semantic-versioning-testing/commit/9171547775a3c77a827e68491f5de3add67c3221))
+
 # [9.0.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v8.0.0...v9.0.0) (2026-06-04)
 
 
