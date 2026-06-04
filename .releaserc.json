@@ -8,7 +8,10 @@
             "releaseRules": [
               { "type": "feat", "release": "minor" },
               { "type": "fix", "release": "minor" },
-              { "type": "perf", "release": "minor" }
+              { "type": "perf", "release": "minor" },
+              { "type": "feat!", "release": "major" },
+              { "type": "fix!", "release": "major" },
+              { "type": "perf!", "release": "major" }
             ]
         }
     ],
