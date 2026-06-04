@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v1.0.1...v1.1.0) (2026-06-04)
+
+
+### Features
+
+* feat version. ([c756341](https://github.com/Chanveasna-ENG/semantic-versioning-testing/commit/c75634159d300615c368ebc0d368339bddadc916))
+
 ## [1.0.1](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v1.0.0...v1.0.1) (2026-06-04)
 
 
