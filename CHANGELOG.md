@@ -1,3 +1,18 @@
+# [10.0.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v9.1.0...v10.0.0) (2026-06-04)
+
+
+* Merge pull request [#3](https://github.com/Chanveasna-ENG/semantic-versioning-testing/issues/3) from Chanveasna-ENG/prototype ([754e548](https://github.com/Chanveasna-ENG/semantic-versioning-testing/commit/754e5488badc16e14aac610ad99f4e1b2f6783b6))
+
+
+### Bug Fixes
+
+* minor push major pr x2 ([b6b52a3](https://github.com/Chanveasna-ENG/semantic-versioning-testing/commit/b6b52a39ff3c275124977773ddc26e938c2bdfca))
+
+
+### BREAKING CHANGES
+
+* MAJOR PR
+
 # [9.1.0](https://github.com/Chanveasna-ENG/semantic-versioning-testing/compare/v9.0.0...v9.1.0) (2026-06-04)
 
 
